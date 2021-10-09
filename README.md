@@ -2,4 +2,5 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/obedmunozjr/" rel="noopener" target="_blank"><img height="30" src="./linkedin.png"></a>&nbsp;&nbsp;
     <a href="Https://www.twitter.com/ObieMunoz" rel="noopener" target="_blank"><img height="30" src="./twitter.png"></a>
+    <a href="https://obiemunoz.github.io/phase-0-personal-page/" rel="noopener" target="_blank"><img height="30" src="./OM.png"></a>
 </p>
