@@ -11,4 +11,8 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Analysis of custom rails serializers vs. conditional statements](https://obie.hashnode.dev/an-analysis-of-custom-rails-serializers-vs-conditional-statements)
+- [Ruby/Sinatra and Organizing Your Seed FileS!](https://obie.hashnode.dev/rubysinatra-and-organizing-your-seed-files)
+- [Maximize your Fetch with React.js!](https://obie.hashnode.dev/maximize-your-fetch-with-reactjs)
+- [JavaScript Fetch and handling an HTML Response](https://obie.hashnode.dev/javascript-fetch-and-handling-an-html-response)
 <!-- BLOG-POST-LIST:END -->
