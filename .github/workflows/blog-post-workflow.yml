@@ -14,4 +14,6 @@ jobs:
       - name: Pull in Hashnode posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          committer_username: "ObieMunoz"
+          committer_email: "obiemunozjr@gmail.com"
           feed_list: "https://obie.hashnode.dev/rss.xml"
