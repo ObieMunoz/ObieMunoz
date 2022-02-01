@@ -1,4 +1,4 @@
-![Office](https://media-exp1.licdn.com/dms/image/C5616AQEZo1vlmcetvw/profile-displaybackgroundimage-shrink_350_1400/0/1636951765161?e=1643241600&v=beta&t=frPPAZ9IMRxU5pqv_MPXj4B2vS8GWsRuoBuRq_aD6Fo)
+![Office](https://pbs.twimg.com/profile_banners/1340023575831605249/1636615062/1500x500)
 
 <div align="center">
 <span>Hi, I'm Obie. I'm currently transitioning my career into Software Engineering. Follow me to see my journey!</span><br><br><span>Want to work on a project together or just have a friendly chat? Reach out:</span><br><br>
