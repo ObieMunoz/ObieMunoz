@@ -1,5 +1,3 @@
-![Office](https://pbs.twimg.com/profile_banners/1340023575831605249/1636615062/1500x500)
-
 <div align="center">
 <span>Hi, I'm Obie. I'm a Software Engineer at <a href="https://www.ashleyfurniture.com" rel="noopener" target="_blank">@AshleyFurniture</a>. Follow me to see my journey!</span><br><br><span>Want to work on a project together or just have a friendly chat? Reach out:</span><br><br>
     <a href="https://www.obiemunoz.com/" rel="noopener" target="_blank"><img height="30" src="./OM-Light.png"></a>&nbsp;&nbsp;
