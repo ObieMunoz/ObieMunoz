@@ -29,11 +29,12 @@ Currently, I'm driving initiatives at Foot Locker related to:
 My key technologies include:
 
 <div align="center" style="margin-top: 15px; margin-bottom: 15px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>&nbsp;
-  <img src="https://img.shields.io/badge/Web_Performance-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Performance"/>&nbsp;
+  <a href="https://react.dev/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>&nbsp;
+  <a href="https://www.javascript.com/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>&nbsp;
+  <a href="https://svelte.dev/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/></a>&nbsp;
+  <a href="https://web.dev/vitals/" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/Web_Performance-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Performance"/></a>&nbsp;
+  <a href="https://docs.github.com/en/actions" rel="noopener" target="_blank"><img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/></a>
 </div>
 
 ---
